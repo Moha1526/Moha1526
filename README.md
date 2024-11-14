@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me - idk, but you can try it
-- 😄 Pronouns: He/His
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love eating delicious Italian meals!
 
 <!---
